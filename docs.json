@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security. An email will be sent to the registered email address with a reset link that expires in 24 hours."
+  },
+  {
+    "title": "Update Profile Information",
+    "content": "To update your profile information such as name and avatar, navigate to your Account Dashboard and click on the 'Edit Profile' button. Changes will take effect immediately."
+  },
+  {
+    "title": "Subscription Plans",
+    "content": "We offer three subscription plans: Basic (free), Pro ($15/month), and Enterprise ($50/month). Pro includes premium support and advanced analytics. Enterprise includes custom integrations and a dedicated account manager."
+  },
+  {
+    "title": "Cancellation Policy",
+    "content": "You can cancel your subscription at any time from the Billing page. If you cancel during a billing cycle, you will retain access until the end of that cycle. No prorated refunds are provided."
+  },
+  {
+    "title": "API Rate Limits",
+    "content": "The public API is rate-limited to 100 requests per minute for Basic users, and 1000 requests per minute for Pro users. Exceeding these limits will result in a 429 Too Many Requests response."
+  },
+  {
+    "title": "Two-Factor Authentication",
+    "content": "Two-Factor Authentication (2FA) adds an extra layer of security. It can be enabled in Settings > Security. We support SMS codes and authenticator apps like Google Authenticator."
+  },
+  {
+    "title": "Data Export",
+    "content": "Users can request a full export of their personal data from the Privacy section in Settings. The export will be delivered as a ZIP file containing JSON documents within 48 hours."
+  }
+]

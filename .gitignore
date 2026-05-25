@@ -1,0 +1,15 @@
+# Environments
+.env
+venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+.system_generated/
